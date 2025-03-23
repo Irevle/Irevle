@@ -1,14 +1,10 @@
-## Introduction!
+## Introduction! ✨
 
-- I'm**Irevle**!
+- I'm **Irevle**!
 - **he/him**
-- I'm currently interested in **Rust**!
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,rust" />
-  </a>
-</p>
+- I'm currently interested in **Rust**! 🦀
+- I usually code or game in my free time!
+[![My Skills](https://skillicons.dev/icons?i=windows,rust)](https://skillicons.dev)
 
 
 <!--
@@ -25,5 +21,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![My Skills](https://skillicons.dev/icons?i=windows,rust)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,rust" />
+  </a>
+</p>
 -->
