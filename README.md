@@ -1,6 +1,8 @@
 ## Introduction!
 
-I'm Irevle. I'm currently interested in Rust!
+- I'm**Irevle**!
+- **he/him**
+- I'm currently interested in **Rust**!
 
 <p align="center">
   <a href="https://skillicons.dev">
