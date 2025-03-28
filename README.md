@@ -2,10 +2,10 @@
 
 - I'm **Irevle**!
 - **he/him**
-- I'm currently interested in **Rust**! 🦀
+- I'm currently interested in **Rust** 🦀 and **Go** 🐿️! 
 - I usually code or game in my free time!
 
-[![My Skills](https://skillicons.dev/icons?i=windows,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,rust,go)](https://skillicons.dev)
 
 
 <!--
