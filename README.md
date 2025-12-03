@@ -1,8 +1,8 @@
 ## Introduction! ✨
 
-- I'm **Irevle**!
+- I'm **Elve**!
 - **he/him**
-- I'm currently interested in **Rust** 🦀 and **Go** 🐿️! 
+- I'm currently interested in **Rust** 🦀! 
 - I usually code or game in my free time!
 
 [![My Skills](https://skillicons.dev/icons?i=windows,rust,go)](https://skillicons.dev)
